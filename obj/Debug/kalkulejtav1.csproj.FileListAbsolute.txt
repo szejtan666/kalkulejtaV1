@@ -1,0 +1,10 @@
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.csproj.AssemblyReference.cache
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.Form1.resources
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.Properties.Resources.resources
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.csproj.GenerateResource.cache
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.csproj.CoreCompileInputs.cache
+C:\Users\lama-\source\repos\kalkulejtav1\bin\Debug\kalkulejtav1.exe.config
+C:\Users\lama-\source\repos\kalkulejtav1\bin\Debug\kalkulejtav1.exe
+C:\Users\lama-\source\repos\kalkulejtav1\bin\Debug\kalkulejtav1.pdb
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.exe
+C:\Users\lama-\source\repos\kalkulejtav1\obj\Debug\kalkulejtav1.pdb
